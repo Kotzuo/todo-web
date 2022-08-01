@@ -1,0 +1,3 @@
+interface TaskListSeparatorProps {
+  title: string;
+}
